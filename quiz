@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+        <meta name= description" content= "um quis sobre o filme wicked">
+    </head>
+    <body>
+        <!-- o header se repete em todas as paginas-->
+        <header>
+            <h1> Portfólio profissional</h1>
+            <p> Conheça um pouco mais sobre mim </p>
+            <nav>
+                <ul>
+                    <li><a href="portifólio.html">Portifólio</a></li>
+                    <li><a href="formação acadêmica.html">Formação Acadêmica</a></li>
+                    <li><a href="experiências.html">Experiências</a></li>
+                    <li><a href="previsôes.html">Previsões futuras</a></li>
+            
+                   
+    
+            
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <h2> Como voce costuma enfrentar desafios?</h2>
+                <form action="
+                "></form>
+            </section>
+        </main>
+        <footer></footer>
+    </body>
+</html>
